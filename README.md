@@ -111,4 +111,4 @@ The application will automatically open in your default web browser at `http://l
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ---
-**Built with ❤️ by Nikhil using Python, LangChain, Gemini AI, and Streamlit.**
+**Built with ❤️ using Python, LangChain, Gemini AI, and Streamlit.**
